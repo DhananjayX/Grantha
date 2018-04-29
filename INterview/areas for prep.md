@@ -24,8 +24,8 @@ Delegates
 # OS
 Threding ,
 Process, 
-CLR
-lock,threadsafe
+CLR \n /n
+lock,threadsafe 
 
 
 # DOT NET
