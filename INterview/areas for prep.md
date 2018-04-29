@@ -1,6 +1,8 @@
 # Data structures c#
 
 immutable ,
+struct 
+string vs stringbuilder
 Array vs List<>
 
 ArrayList<>
@@ -14,17 +16,27 @@ ArrayList<>
 
 # object formation
 static constructor - sequence of exec  ,
-Generics, 
 IEnumerable, 
-LINQ
+Delegates
+
 
 
 # OS
 Threding ,
 Process, 
 CLR
+lock,threadsafe
+
 
 # DOT NET
 CLR , 
 Domain, 
-Process
+Process,
+LINQ, 
+Generics
+
+
+# SQL
+normalization,
+performance,
+cluster,non cluster,
