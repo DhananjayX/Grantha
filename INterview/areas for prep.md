@@ -2,9 +2,11 @@
 
 immutable ,
 Array vs List<>
+
 ArrayList<>
       ArrayList list = new ArrayList();
       list.Add("One"); anytype --object
+ 
  List<string>
        var ls = new List<string>(); ls.Add("one"); --only string
 
@@ -12,17 +14,17 @@ ArrayList<>
 
 # object formation
 static constructor - sequence of exec  ,
-Generics
-IEnumerable
+Generics, 
+IEnumerable, 
 LINQ
 
 
 # OS
-Threding
-Process
+Threding ,
+Process, 
 CLR
 
 # DOT NET
-CLR
-Domain
+CLR , 
+Domain, 
 Process
