@@ -18,8 +18,9 @@ ArrayList<>
 static constructor - sequence of exec  ,
 IEnumerable, 
 Delegates
-
-
+readonly v/s constant {constan values goes into assembly's IL, cannot be dynamic,must be declared }
+ref
+why namespaces : {for a class to get an identity. helps to resolve class when used with anther assembly}
 
 # OS
 Threding ,
