@@ -1,6 +1,6 @@
 # Interview questions
 
-# Interview 1 ---------------------------------------------------------------------------
+# Interview 1 
 [SQL, .NEt, OOPS]
 i)   Finally vs Finalize (c#)
 ii)  Threading - why - how to collect data from all threads- how to add thread safety
@@ -19,7 +19,7 @@ xiii) how to implement data level  authorization.
 xiv) attribute based access controls vs role based access control.
  
 
-# Interview 2 ---------------------------------------------------------------------------
+# Interview 2 -----
 i)   Finally why to use ?
 ii)  protected internal keyword
 iii) can we use protected internal method in another assembly
