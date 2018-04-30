@@ -34,7 +34,8 @@ CLR ,
 Domain, 
 Process,
 LINQ, 
-Generics
+Generics,
+signing an assembly
 
 
 # SQL
