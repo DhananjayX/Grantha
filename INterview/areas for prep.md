@@ -42,6 +42,10 @@ signing an assembly
 normalization,
 performance,
 cluster,non cluster,
+OLEDB , ODBC
+Where clause,
+over clause - [  (aggregate function (xx1) ) over (partition by xx2 order by xx3 )]
+-- aggregate function can be - rank, dense rank , row_number or sum-aver-max-min etc
 
 # Angular
 Angular CLI
