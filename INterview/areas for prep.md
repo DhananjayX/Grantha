@@ -42,3 +42,25 @@ signing an assembly
 normalization,
 performance,
 cluster,non cluster,
+
+# Angular
+Angular CLI
+Component [import /export] , 
+Module , 
+Directives [inbuild , custom] ,
+Route ,
+Dependency Injection ,
+Service class,
+Model,
+httpclient [get/post]
+
+
+# React
+React-DOM,
+Component,
+STATE,
+PROPs,
+Route,
+REDUX - A DATA STORE ,
+HTTP POST GET
+
