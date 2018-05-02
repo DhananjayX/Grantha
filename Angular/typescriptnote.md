@@ -1,0 +1,5 @@
+
+# Tyscript syntax
+
+## class
+
